@@ -1,6 +1,6 @@
 # Crack the hash
 
-![logo](../images/crack-the-hash/crack-the-hash-logo.jpeg)
+![logo](./images/crack-the-hash-logo.jpeg)
 
 ## Outils utilisés
 
